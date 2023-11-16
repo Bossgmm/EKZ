@@ -1,0 +1,6 @@
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\bin\Debug\DataBaseConnect.dll
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\bin\Debug\DataBaseConnect.pdb
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\obj\Debug\DataBaseConnect.csprojAssemblyReference.cache
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\obj\Debug\DataBaseConnect.csproj.CoreCompileInputs.cache
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\obj\Debug\DataBaseConnect.dll
+C:\Users\429194-1\source\repos\DataBaseConnect\DataBaseConnect\obj\Debug\DataBaseConnect.pdb
